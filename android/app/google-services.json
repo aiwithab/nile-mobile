@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640790859700",
+    "firebase_url": "https://nile-android.firebaseio.com",
+    "project_id": "nile-android",
+    "storage_bucket": "nile-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640790859700:android:8000838ea9cf520814ece1",
+        "android_client_info": {
+          "package_name": "in.inertontechnologies.nile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640790859700-dquqrcn1g0p3ej6ldto89896fgp3uoid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.inertontechnologies.nile",
+            "certificate_hash": "a2c40c4918d9b9f6d78433a544258a36e3f74e81"
+          }
+        },
+        {
+          "client_id": "640790859700-ee0q9sd1s94ibgtgcp71hog4frlpn1h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM76SLHK3llzdE-sQ8nonpS4D4grIk0qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640790859700-ee0q9sd1s94ibgtgcp71hog4frlpn1h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
